@@ -38,5 +38,4 @@ This project is licensed under the [MIT License] (LICENSE). You are free to use,
 
 ## About Me
 
-Hi there! I'm **Michael Gregory**. I am a Master of Mathematics graduate from University of Waterloo on a mission to apply my technical and abstract reasoning skills to practical data analysis and engineering.
-This 
+Hi there! I'm **Michael Gregory**. I am a Master of Mathematics graduate from University of Waterloo on a mission to apply my technical and abstract reasoning skills to practical data analysis and engineering. 
